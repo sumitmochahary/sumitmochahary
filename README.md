@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on personal portfolio website<br>🌱 I’m currently learning full stack development
+👋 I'm a Full-Stack Developer passionate about building responsive and user-friendly web applications.
 
 
 ## 🌐 Socials:
