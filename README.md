@@ -20,7 +20,7 @@ A full-stack, secure task manager with:
 - REST API backend (Spring Boot)
 - Responsive React UI
 
-👉 **Repo:** [https://github.com/sumitmochahary/to-do-tracker]  
+👉 **Repo:** https://github.com/sumitmochahary/to-do-tracker  
 👉 **Tech Stack:** React, Spring Boot, MySQL, MongoDB, JWT, Axios
 
 ---
@@ -46,4 +46,4 @@ A full-stack, secure task manager with:
 ---
 
 ## 📫 Connect
-**Email:** sumitmochmech@gmail.com
+**Email:** sumitmochahary5@gmail.com
