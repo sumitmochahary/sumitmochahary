@@ -34,7 +34,7 @@ A full-stack, secure task manager with:
 ---
 
 ## 📈 GitHub Stats
-![Sumit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sumitmochahary&show_icons=true&hide_border=true)
+![Sumit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sumitmochahary&show_icons=true&hide_border=true&theme=radical)
 
 ---
 
