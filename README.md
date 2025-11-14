@@ -42,8 +42,3 @@ A full-stack, secure task manager with:
 - Advanced Spring Boot (Caching, Scheduling, Cloud Integration)
 - React performance patterns
 - Docker + CI/CD pipelines
-
----
-
-## 📫 Connect
-**Email:** sumitmochahary5@gmail.com
