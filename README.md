@@ -1,4 +1,4 @@
-# Hi, I'm Sumit 👋  
+# Hi, I'm Sumit
 Full-Stack Developer — React & Spring Boot
 
 I build clean, efficient, and scalable web applications. Currently expanding my skills in microservices, API architecture, and production-ready full-stack deployments.
